@@ -52,7 +52,7 @@ The Microsoft-Classifying Cybersecurity Incidents Project focuses on identifying
   - Model Development: Utilized various machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forests, to train and evaluate models for detecting fraudulent transactions. The         project aimed to achieve high accuracy and minimize false positives.
   - Analysis and Insights: Analyzed the performance of different models and provided insights into the patterns associated with fraudulent transactions, contributing to improved understanding and prevention          strategies.
      
-- **[multilingual-storyteller]([[https://github.com/MANISHYASH/Car_Dheko-Used_Car_Price_Prediction](https://github.com/MANISHYASH/multilingual-storyteller)]**
+- **Multilingual-storyteller([[https://github.com/MANISHYASH/Car_Dheko-Used_Car_Price_Prediction](https://github.com/MANISHYASH/multilingual-storyteller)]**
     The Multilingual Storyteller Project aims to create an interactive platform that generates and shares stories in multiple languages, fostering cultural exchange and language learning. By leveraging natural       language processing (NLP) and machine learning techniques, this project enhances the accessibility of storytelling across different linguistic backgrounds.
 
   Key components:
