@@ -5,6 +5,7 @@ I’m an aspiring Data Scientist with a passion for analyzing data, building pre
 ---
 
 ## 💻 Projects
+These projects were developed as part of the GUVI Capstone program:
 
 - **[Redbus Data Scraping and Streamlit App](https://github.com/MANISHYASH/Redbus-Data-Scraping-and-Streamlit-App)**  
   Automates the extraction of bus booking information from Redbus and provides dynamic filtering through a Streamlit application.
