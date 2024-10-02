@@ -32,10 +32,10 @@ These projects were developed as part of the GUVI Capstone program:
 
 ## 🎓 Education
 
-- **[Bachelor’s Degree]** in [Computer Applications] – [St. Joseph's College Trichy] (2024)  
+- **Bachelor’s Degree** in Computer Application – St. Joseph's College Trichy (2024)  
   Coursework: Programming, Data Structures, Statistical Analysis, Databases
 
-- **[Certification]** – [GUVI] – Completed on [17 July 2024]  
+- **Certification** – GUVI – Completed on 17 July 2024  
   Python course 
 
 ---
