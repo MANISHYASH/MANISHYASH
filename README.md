@@ -64,13 +64,6 @@ These projects were developed as part of the GUVI Capstone program:
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F8C8D6?style=for-the-badge&logo=Huggingface&logoColor=white)
 ---
 
-### 📫 How to reach me
-You can find me here:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-yashwant/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yashwantmanish@gmail.com)
-
-
 ## 📚 Currently Learning
 
 - Advanced techniques in **Deep Learning** (CNNs, RNNs, GANs).
