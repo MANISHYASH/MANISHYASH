@@ -73,8 +73,9 @@ You can find me here:
 
 ## 📚 Currently Learning
 
-- Advanced techniques in **Deep Learning** (CNNs, RNNs, GANs).
-- Exploring **Time Series Forecasting** and **MLOps**.
+- Advanced techniques in **Deep Learning** (CNNs, RNNs, GANs) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F20?style=for-the-badge&logo=TensorFlow&logoColor=white)
+- Exploring **Time Series Forecasting** ![Time Series](https://img.shields.io/badge/Time%20Series%20Forecasting-FF7F50?style=for-the-badge&logo=python&logoColor=white)
+- Learning about **MLOps** ![MLOps](https://img.shields.io/badge/MLOps-00A4D8?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
