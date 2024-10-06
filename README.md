@@ -62,19 +62,19 @@ These projects were developed as part of the GUVI Capstone program:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-2B8EB3?style=for-the-badge&logo=gradio&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F8C8D6?style=for-the-badge&logo=Huggingface&logoColor=white)
+
+### 📫 How to reach me
+You can find me here:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-yashwant/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwantmanish@gmail.com)
+
 ---
 
 ## 📚 Currently Learning
 
 - Advanced techniques in **Deep Learning** (CNNs, RNNs, GANs).
 - Exploring **Time Series Forecasting** and **MLOps**.
-
----
-
-## 💬 Get in Touch
-
-- LinkedIn: [Manish Yashwant](https://www.linkedin.com/in/manish-yashwant/)
-- Email: [yashwantmanish@gmail.com](mailto:yashwantmanish@gmail.com)
 
 ---
 
