@@ -4,6 +4,9 @@ I’m an aspiring Data Scientist with a passion for analyzing data, building pre
 
 ---
 
+Check out my [Portfolio](https://manishyash.github.io/portofolio/).
+
+
 ## 💻 Projects
 These projects were developed as part of the GUVI Capstone program:
 
