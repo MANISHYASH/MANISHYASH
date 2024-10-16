@@ -25,13 +25,13 @@ These projects were developed as part of the GUVI Capstone program:
 - **[Multilingual Storyteller](https://github.com/MANISHYASH/multilingual-storyteller)**  
   Translates Tamil text to English, generating an image and a story based on the translated text.
 
-- **[Dominos-Predictive Purchase Order System](https://github.com/MANISHYASH/Dominos---Predictive-Purchase-Order-System)**
+- **[Dominos-Predictive Purchase Order System](https://github.com/MANISHYASH/Dominos---Predictive-Purchase-Order-System)**<br>
   Utilizes historical data to predict future values, providing insights for decision-making across various domains.
 
 ## 🌟 Personal Projects
 Here you can describe your personal projects. For example:
 
-- **[Real Time Emotion Recognition Using DeepLearning](https://github.com/MANISHYASH/Real-Time-Emotion-Recognition-Using-Deep-Learning)**
+- **[Real Time Emotion Recognition Using DeepLearning](https://github.com/MANISHYASH/Real-Time-Emotion-Recognition-Using-Deep-Learning)**<br>
   Utilizes deep learning techniques to analyze facial expressions and detect emotions in real-time from video feeds.
 
 
