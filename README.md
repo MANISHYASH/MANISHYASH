@@ -19,7 +19,7 @@ These projects were developed as part of the GUVI Capstone program:
 - **[Car Dheko: Used Car Price Prediction](https://github.com/MANISHYASH/Car_Dheko-Used_Car_Price_Prediction)**  
   Develops a predictive model to estimate used car prices based on features like bhp, torque, model, mileage & etc.
 
-- **[Microsoft-Classifying_Cybersecurity_Incidents](https://github.com/MANISHYASH/Microsoft-Classifying_Cybersecurity_Incidents)**  
+- **[Microsoft-Classifying Cybersecurity Incidents](https://github.com/MANISHYASH/Microsoft-Classifying_Cybersecurity_Incidents)**  
   Identifies Cybersecurity Incidents using machine learning algorithms like logistic regression,decision trees, Random Forest. XGBoost.
 
 - **[Multilingual Storyteller](https://github.com/MANISHYASH/multilingual-storyteller)**  
