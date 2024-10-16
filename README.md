@@ -32,7 +32,7 @@ These projects were developed as part of the GUVI Capstone program:
 Here you can describe your personal projects. For example:
 
 - **[Real Time Emotion Recognition Using DeepLearning](https://github.com/MANISHYASH/Real-Time-Emotion-Recognition-Using-Deep-Learning)**
-   Utilizes deep learning techniques to analyze facial expressions and detect emotions in real-time from video feeds.
+  Utilizes deep learning techniques to analyze facial expressions and detect emotions in real-time from video feeds.
 
 
 ## 📊 GitHub Stats
