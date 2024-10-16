@@ -26,6 +26,7 @@ These projects were developed as part of the GUVI Capstone program:
   Translates Tamil text to English, generating an image and a story based on the translated text.
 
 - **[Time Series Forecasting](https://github.com/MANISHYASH/Dominos---Predictive-Purchase-Order-System)**
+
   Utilizes historical data to predict future values, providing insights for decision-making across various domains.
 
 ## 📊 GitHub Stats
