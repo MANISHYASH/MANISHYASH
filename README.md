@@ -6,8 +6,13 @@ I’m an aspiring Data Scientist with a passion for analyzing data, building pre
 
 Check out my [Portfolio](https://manishyash.github.io/portofolio/).
 
-![Data Science Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+# Data Science in Action 🌐📊
 
+Ever wondered how data flows through a project? Here's an animation capturing the essence of data science, from data collection to machine learning and insights generation!
+
+![Data Science Workflow Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+_Data Science: Where statistics, coding, and creativity meet to turn raw data into powerful insights._
 
 
 ## 💻 Projects
