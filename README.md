@@ -6,7 +6,8 @@ I’m an aspiring Data Scientist with a passion for analyzing data, building pre
 
 Check out my [Portfolio](https://manishyash.github.io/portofolio/).
 
-![Data Science Workflow](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Data Science Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
 
 
 ## 💻 Projects
