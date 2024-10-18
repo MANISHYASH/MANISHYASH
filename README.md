@@ -6,13 +6,14 @@ I’m an aspiring Data Scientist with a passion for analyzing data, building pre
 
 Check out my [Portfolio](https://manishyash.github.io/portofolio/).
 
-# Data Science Journey 🚀
+# The Data Science Process 🔍📊
 
-From raw data to actionable insights, here's a glimpse into the data science process—where algorithms meet intelligence to create powerful predictions!
+From raw data to insights, data science uncovers patterns and trends that drive decisions.
 
-![Data Science Animation](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
+![Data Science Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-_Data Science: Wrangling data, building models, and delivering insights to shape the future._ 💻📊
+_Analyzing data to reveal meaningful insights and predictions._
+
 
 
 
