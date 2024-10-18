@@ -6,13 +6,13 @@ I’m an aspiring Data Scientist with a passion for analyzing data, building pre
 
 Check out my [Portfolio](https://manishyash.github.io/portofolio/).
 
-# The Data Science Process 🔍📊
+# The Art of Data Science 🧠💡
 
-From raw data to insights, data science uncovers patterns and trends that drive decisions.
+Turning data into knowledge, insights, and innovation. Watch how raw data transforms into powerful decisions!
 
-![Data Science Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Data Science in Action](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-_Analyzing data to reveal meaningful insights and predictions._
+_Data is everywhere—it's our job to make sense of it._ 📊📈
 
 
 
