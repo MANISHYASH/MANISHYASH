@@ -43,7 +43,7 @@ These projects were developed as part of the GUVI Capstone program:
 - **[Real Time Emotion Recognition Using DeepLearning](https://github.com/MANISHYASH/Real-Time-Emotion-Recognition-Using-Deep-Learning)**<br>
   Utilizes deep learning techniques to analyze facial expressions and detect emotions in real-time from video feeds.
 
-- **[Movie Recommendation System](https://github.com/MANISHYASH/Movie-Recommendation-System)**<br>
+- **[Movie Recommendation System](https://github.com/MANISHYASH/Movie-Recommadation-System)**<br>
   A collaborative filtering and content-based recommendation system that suggests movies to users based on their preferences and viewing history.
 
 
