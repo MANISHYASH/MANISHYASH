@@ -39,10 +39,13 @@ These projects were developed as part of the GUVI Capstone program:
   Utilizes historical data to predict future values, providing insights for decision-making across various domains.
 
 ## 🌟 Personal Projects
-Here you can describe your personal projects. For example:
 
 - **[Real Time Emotion Recognition Using DeepLearning](https://github.com/MANISHYASH/Real-Time-Emotion-Recognition-Using-Deep-Learning)**<br>
   Utilizes deep learning techniques to analyze facial expressions and detect emotions in real-time from video feeds.
+
+- **[Movie Recommendation System](https://github.com/MANISHYASH/Movie-Recommendation-System)**<br>
+  A collaborative filtering and content-based recommendation system that suggests movies to users based on their preferences and viewing history.
+
 
 
 ## 📊 GitHub Stats
